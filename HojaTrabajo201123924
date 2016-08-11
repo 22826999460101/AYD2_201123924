@@ -1,17 +1,26 @@
 
 •	¿Qué es un sistema de control de versiones?
+Es un software el cual nos permite desarrollar cualquier software con su respectiva documentacion 
+llevando de manera ordenada los cambios que se realizan en ella. Y poder integrar de una mejor forma
+el trabajo que se desarrolla en equipo.
 •	¿Qué es un repositorio?
+Es el espacio donde se va guardar el software que deseamos desarrollar con su documentacion. Esto conlleva el desarrollo 
+principal, sus ramas, etiquetas.
 •	En el contexto de sistemas de control de versiones, definir con sus propias palabras los siguientes conceptos:
-  o	Árbol
-  o	Revisión
-  o	Reléase
-  o	Rama
-  o	Etiqueta
-  o	Versión
-  o	Commit
-  o	Update
-  o	Check out
-  o	Merge
+  o	Árbol: Son todos los archivos que conforman el proyecto.
+  o	Revisión: Es el numero que se le pone a cada version es un numero pequeño si no se han realizado muchos cambios
+  o	Reléase: Es la union de un desarrollo de software, que brinda cierta funcionalidad al usuario final.
+  o	Rama: Desarrollo del sofware, por separado del desarrollo principal sirve para agregar funcionalidades o corregir errores o desarrollar pruebas.
+  o	Etiqueta: Nombre para identificar que se hace en una rama.
+  o	Versión: Numero de una rama, generalmente se usa cuando se implementan varios cambios en las ramas.
+  o	Commit: Guardar cambios a cierto archivo
+  o	Update: Actualiza la version del repositorio con el que deseamos trabajar.
+  o	Check out: Nos hace una copia del repositorio.
+  o	Merge: Une dos version de un archivo.
 •	Diferencia entre trunk y branch
+El trunk debe ir el desarrollo principal, y en el branch se realizan los cambios, pruebas para que cuando esten fucionales formen parte del trunk.
 •	¿Qué es y porque es necesaria la integración continúa?
+Es un sistema para estar probando cada avanze que se haga en el software, esto se hace mediante varios software,
+controlador de versiones, herramienta de ejecución de pruebas,servidor de ic 
 •	Hacer un diagrama donde se explique el proceso de integración continúa
+
